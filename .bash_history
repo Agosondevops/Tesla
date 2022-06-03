@@ -401,3 +401,87 @@ ls .a
 ls -a
 vi app.py
 ls -a
+clear
+ls -a
+ll
+clear
+cat app.py
+git status
+git add
+git add .
+clear
+git add . app.py
+git status
+clear
+git init
+git status
+git log
+ls .gitconfig
+ll .gitconfig
+cat .gitconfig
+clear
+git config--global--list
+clesr
+clear
+git config--list
+git config --list
+rm -rf /git config -- user.email" agomhoinnocent@gmail.com
+git config --list
+rm -i
+rm --help
+clear
+git config --list
+rm -r /git config --global user.email "agomhoinnocent@gmail.com
+sudo rm -r /git config --global user.email "agomhoinnocent@gmail.com
+jj
+
+
+clear
+git log
+cat deploy.sh
+git commit -m " deployment ready"
+sudo rm -rf git config --global user.emal "agomhoinnocent@gmail.com"
+sudo rm -rf git config user.email "agomhoinnocent@gmail.com"
+git config --list
+git status
+clear
+git commit -m "deployment ready"
+git config --list
+git config --global user.email "agomuohinnocent@gmail.comm"
+git config --global user.name "Agomuoh2022"
+git commit -m " deployment is ready"
+git log
+git show c521e27
+git merge master
+git branch
+git remote tashttps://github.com/Agosondevops/Tesla
+git remote tas https://github.com/Agosondevops/Tesla
+git remote -v
+git remote add tas  https://github.com/Agosondevops/Tesla
+git push tas master
+ git push tas master
+git push ta master
+git push tas master
+clear
+git push tas master
+git log
+git show c521e27
+git remote -v
+git log
+ls .a
+ls -a
+cat hell.sh
+cat hello.sh
+clear
+cat welcome.sh
+echo summer is here >> welcome.sh
+cat welcome.sh
+clear
+git status
+git log
+clear
+git status
+git add .
+git status
+git commit
+git commit -m " done "
